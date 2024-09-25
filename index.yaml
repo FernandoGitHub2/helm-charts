@@ -9,6 +9,6 @@ entries:
     name: jteller
     type: application
     urls:
-    - https://FernandoGitHub2.github.io/helm-charts/jteller-0.1.0.tgz
+    - https://fernandogithub2.github.io/helm-charts/jteller-0.1.0.tgz
     version: 0.1.0
 generated: "2024-09-25T12:20:08.2344582-06:00"
