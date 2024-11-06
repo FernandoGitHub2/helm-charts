@@ -11,4 +11,14 @@ entries:
     urls:
     - https://fernandogithub2.github.io/helm-charts/jteller-0.1.0.tgz
     version: 0.1.0
+  - apiVersion: v2
+    appVersion: "7.6"
+    created: "2024-09-25T12:20:08.2381274-06:00"
+    description: JTELLER APPLICATION
+    digest: 9e66971702145c1085d1f9012df21b65b556835ff5a16ada7ba584600420044e
+    name: jteller
+    type: application
+    urls:
+    - https://fernandogithub2.github.io/helm-charts/jteller-0.1.1.tgz
+    version: 0.1.1
 generated: "2024-09-25T12:20:08.2344582-06:00"
